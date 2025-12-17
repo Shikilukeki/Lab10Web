@@ -34,7 +34,7 @@ lab10_php_oop/
 - `mobil.php`  
   Contoh penggunaan class dan object untuk memahami konsep OOP.
 
-  
+  https://github.com/Shikilukeki/Lab10Web/blob/main/screenshot/Screenshot%202025-12-17%20111644.png?raw=true
 
 - `form.php`  
   Class library untuk membuat form input sederhana.
